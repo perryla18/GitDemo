@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="io.cucumber.testng" type="repository">
+    <properties maven-id="io.cucumber:cucumber-testng:7.14.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-testng/7.14.0/cucumber-testng-7.14.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/7.14.0/cucumber-core-7.14.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-gherkin/7.14.0/cucumber-gherkin-7.14.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-gherkin-messages/7.14.0/cucumber-gherkin-messages-7.14.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/gherkin/26.2.0/gherkin-26.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/messages/22.0.0/messages-22.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/tag-expressions/5.0.6/tag-expressions-5.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-expressions/16.1.2/cucumber-expressions-16.1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/datatable/7.14.0/datatable-7.14.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-plugin/7.14.0/cucumber-plugin-7.14.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/docstring/7.14.0/docstring-7.14.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/html-formatter/20.4.0/html-formatter-20.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/junit-xml-formatter/0.2.0/junit-xml-formatter-0.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/ci-environment/9.2.0/ci-environment-9.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.8.0/testng-7.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/beust/jcommander/1.82/jcommander-1.82.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/jquery/3.6.1/jquery-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
