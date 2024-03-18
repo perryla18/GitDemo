@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/POM_Framework.iml" filepath="$PROJECT_DIR$/POM_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GitDemo.iml" filepath="$PROJECT_DIR$/GitDemo.iml" />
     </modules>
   </component>
 </project>
